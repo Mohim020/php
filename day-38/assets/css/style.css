@@ -1,0 +1,14 @@
+.body
+{
+    background-color: #ffffff;
+    background-image: linear-gradient(225deg, #ffffff 0%, #be62ff 1%, #3c00ff 100%);
+
+}
+.name
+{
+    color: aliceblue;
+}
+.title
+{
+    color: aliceblue;
+}
